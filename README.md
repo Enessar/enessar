@@ -1,37 +1,34 @@
-# 👋 My Projects
+# My Projects
 
-Welcome! Here you'll find a collection of projects I've worked on, showcasing my skills in software development, security research, and more.
+Here are some projects I've worked on in software development and security research.
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Fuzzing and Vulnerability Analysis of libpng](#fuzzing-and-vulnerability-analysis-of-libpng)
 
 ---
 
-## 🔍 Fuzzing and Vulnerability Analysis of libpng
+## Fuzzing and Vulnerability Analysis of libpng
 
-**Security Research | Fuzzing | Vulnerability Exploitation**
+Security research project using Google's OSS-Fuzz framework to test the libpng library through coverage-guided fuzzing. We analyzed how different fuzzing approaches affect code coverage and developed custom fuzzers to reach previously untested code paths.
 
-A comprehensive security research project exploring coverage-guided fuzzing techniques using Google's OSS-Fuzz framework on the libpng library. This project demonstrates practical application of modern software testing methodologies to discover vulnerabilities and improve code coverage.
+**What we did:**
 
-### Key Highlights
+- Compared fuzzing effectiveness with and without seed corpus (17% coverage difference)
+- Built custom fuzzers to test read and write operations separately
+- Achieved coverage on 1,270+ lines that were previously untested
+- Developed proof-of-concept exploit for CVE-2014-9495 (heap buffer overflow)
 
-- 🧪 **Coverage-Guided Fuzzing** with OSS-Fuzz and LibFuzzer
-- 📊 **Empirical Analysis** comparing fuzzing with and without seed corpus (+17% coverage improvement)
-- 🛠️ **Custom Fuzzer Development** creating new fuzzers to explore untested code paths
-- 🚨 **CVE Exploitation** successful proof-of-concept for CVE-2014-9495 (heap buffer overflow)
-- 📈 **Novel Coverage** achieved 1,270+ lines of previously untested code
+**Results:**
 
-### Results
+- Seed corpus provided 17% better line coverage compared to starting from scratch
+- New write fuzzer covered 30-50% of encoding functions (previously at 0%)
+- Enhanced read fuzzer added 1% coverage through better API call combinations
+- Successfully triggered heap buffer overflow using AddressSanitizer
 
-✅ Demonstrated 17% coverage increase with quality seed corpus  
-✅ Developed 2 custom fuzzer variants (enhanced read + new write fuzzer)  
-✅ Achieved 30-50% coverage on previously untested write operations  
-✅ Successfully exploited historical CVE with AddressSanitizer validation
+**Technologies:** OSS-Fuzz, LibFuzzer, LLVM Coverage, AddressSanitizer, C/C++  
+**Type:** Group research project
 
-**Technologies:** OSS-Fuzz • LibFuzzer • LLVM Coverage • AddressSanitizer • C/C++  
-**Type:** Group security research project
-
-**[→ View Full Project Repository](https://github.com/Enessar/LibPNG_OSS-Fuzz)**
+**[View Full Repository](https://github.com/Enessar/LibPNG_OSS-Fuzz)**
 
 ---
