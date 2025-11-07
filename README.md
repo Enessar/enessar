@@ -7,10 +7,7 @@ Includes both academic work completed at EPFL and personal or independent projec
 
 ## Security Research
 
-- **[Fuzzing and Vulnerability Analysis of libpng](https://github.com/Enessar/LibPNG_OSS-Fuzz)** — *Academic project (EPFL, Security Research)*  
-  Coverage-guided fuzzing of libpng using OSS-Fuzz and LibFuzzer.  
-- **[Fuzzing and Vulnerability Triage (libnpg)](https://github.com/Enessar/LibPNG_OSS-Fuzz)** — *Personal exploration*  
-  Extension of OSS-Fuzz harnesses for vulnerability detection and coverage improvement.
+- **[Fuzzing and Vulnerability Analysis of libpng](https://github.com/Enessar/LibPNG_OSS-Fuzz)** — *Academic project (EPFL, Security Research)*
 
 ---
 
