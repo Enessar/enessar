@@ -2,6 +2,8 @@
 
 Welcome to my GitHub!  
 
+I’m a Computer Science & Cybersecurity student at EPFL & ETH Zürich, passionate about distributed systems, privacy engineering, and secure software engineering.
+
 This repository highlights selected academic and personal projects showcasing my experience in **systems programming**, **security research**, and **software engineering**.
 
 ---
