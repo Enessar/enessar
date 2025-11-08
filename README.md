@@ -27,8 +27,8 @@ Includes both academic work completed at EPFL and personal or independent projec
 - **[LizardsNroachesNwasps – Distributed Multiplayer Game](https://github.com/Enessar/LizardsNroachesNwasps)** — *Academic project (IST Lisbon, PSIS – Systems Programming)*  
   Real-time distributed multiplayer game written in C using ZeroMQ and POSIX threads.  
 
-- **[Concurrent Data Structures for RDMA Systems](https://github.com/Enessar/RDMA-Concurrent-DataStructures)** — *Research assistant project (EPFL)*  
-  Lock-free concurrent structures optimized for RDMA scalability and microsecond latency.  
+- **[Concurrent Data Structures for RDMA Systems](https://github.com/Atoula/pds)** — *Research assistant project (EPFL DCL)*  
+  Lock-free concurrent structures (Bag) optimized for RDMA scalability and microsecond latency.  
 
 - **[GrooveGalaxy-Secure-Infrastructure](https://github.com/Enessar/GrooveGalaxy-Secure-Infrastructure)** — *Academic project (IST Lisbon)*  
   Secure multi-VM architecture with AES-CTR encrypted streaming, HTTPS, PostgreSQL, and firewall automation.  
