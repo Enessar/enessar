@@ -31,7 +31,10 @@ Includes both academic work completed at EPFL and personal or independent projec
 - **[Concurrent Data Structures for RDMA Systems](https://github.com/Enessar/RDMA-Concurrent-DataStructures)** — *Research assistant project (EPFL)*  
   Lock-free concurrent structures optimized for RDMA scalability and microsecond latency.  
 
-- **[GrooveGalaxy – Secure Infrastructure Project](https://github.com/Enessar/GrooveGalaxy)** — *Academic project (EPFL)*  
-  Secure multi-VM network with firewall isolation, encrypted media streaming, and automated deployment.
+- **[GrooveGalaxy-Secure-Infrastructure](https://github.com/Enessar/GrooveGalaxy-Secure-Infrastructure)** — *Academic project (IST Lisbon)*  
+  Advanced implementation of GrooveGalaxy featuring a 4-VM architecture (Gateway, Server, Database, Client),  
+  AES-CTR streaming, HTTPS security, PostgreSQL backend, and firewall automation via iptables/UFW.
+
+---
 
 *Note: Some repositories are private per EPFL course policy or contain restricted research code.*
