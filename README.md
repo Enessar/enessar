@@ -26,14 +26,15 @@ Includes both academic work completed at EPFL and personal or independent projec
 
 - **[LizardsNroachesNwasps – Distributed Multiplayer Game](https://github.com/Enessar/LizardsNroachesNwasps)** — *Academic project (IST Lisbon, PSIS – Systems Programming)*  
   Real-time distributed multiplayer game written in C using ZeroMQ and POSIX threads.  
-  Demonstrates concurrent process communication, synchronization, and real-time visualization with NCurses.  
 
 - **[Concurrent Data Structures for RDMA Systems](https://github.com/Enessar/RDMA-Concurrent-DataStructures)** — *Research assistant project (EPFL)*  
   Lock-free concurrent structures optimized for RDMA scalability and microsecond latency.  
 
 - **[GrooveGalaxy-Secure-Infrastructure](https://github.com/Enessar/GrooveGalaxy-Secure-Infrastructure)** — *Academic project (IST Lisbon)*  
-  Advanced implementation of GrooveGalaxy featuring a 4-VM architecture (Gateway, Server, Database, Client),  
-  AES-CTR streaming, HTTPS security, PostgreSQL backend, and firewall automation via iptables/UFW.
+  Secure multi-VM architecture with AES-CTR encrypted streaming, HTTPS, PostgreSQL, and firewall automation.  
+
+- **[VI – Interactive Data Visualization Dashboard](https://github.com/Enessar/VI)** — *Academic project (IST Lisbon, Data Visualization)*  
+  Interactive visualization of global development and demographic trends (1960–2016) using **D3.js**, **JavaScript**, and **HTML/CSS** — featuring animated maps, line charts, and Sankey diagrams.  
 
 ---
 
