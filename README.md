@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rassene M’Sadaa
 
 Welcome to my GitHub!  
-I’m a **Computer Science & Cybersecurity** student at **EPFL & ETH Zürich**, passionate about **distributed systems**, **privacy engineering**, and **secure software design**.  
 
 This repository highlights selected academic and personal projects showcasing my experience in **systems programming**, **security research**, and **software engineering**.
 
