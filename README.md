@@ -46,6 +46,6 @@ This repository highlights selected academic and personal projects showcasing my
 ---
 
 > 📫 Let’s connect:  
-> [LinkedIn](www.linkedin.com/in/rassene-msadaa) · [Email](mailto:rassene.msadaa@gmail.com)
+> [Email](mailto:rassene.msadaa@gmail.com)
 
 
