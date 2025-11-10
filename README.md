@@ -23,17 +23,13 @@ This repository highlights selected academic and personal projects showcasing my
 ---
 
 ## Systems & Infrastructure
-
-### Distributed Systems and Networking
-- **[NameCoin on Peerster – Decentralized DNS System](https://github.com/Enessar/NameCoin-on-Peerster)** · *Go (Golang)*  
-  Blockchain-based DNS system using PoW consensus and gossip protocol; 73% code coverage across distributed nodes.  
-- **[Concurrent Data Structures for RDMA Systems](https://github.com/Enessar/RDMA-Concurrent-DataStructures)** · *C*  
+- **[Concurrent Data Structures for RDMA Systems](https://github.com/Atoula/pds)** · *C*  
   Lock-free concurrent structures optimized for RDMA scalability and microsecond latency.
 
 ### Secure Infrastructure and Networking
 - **[GrooveGalaxy – Secure Infrastructure Project](https://github.com/Enessar/GrooveGalaxy-Secure-Infrastructure)** · *Java, PostgreSQL*  
   Multi-VM network (gateway, server, database) with AES-CTR encrypted streaming, HTTPS, and automated firewall setup.  
-- **[LizardsNroachesNwasps – Distributed Multiplayer Game](https://github.com/Enessar/LizardsNroachesNwasps)** · *C (POSIX Threads, ZeroMQ)*  
+- **[LizardsNroachesNwasps – Distributed Multiplayer Game](https://github.com/Enessar/Psis-lizardVScockroach)** · *C (POSIX Threads, ZeroMQ)*  
   Real-time distributed game demonstrating inter-process communication, concurrency, and fault tolerance.
 
 ---
