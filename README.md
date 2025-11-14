@@ -22,11 +22,7 @@ This repository highlights selected academic and personal projects showcasing my
 
 ---
 
-## Systems & Infrastructure
-- **[Concurrent Data Structures for RDMA Systems](https://github.com/Atoula/pds)** · *C*  
-  Lock-free concurrent structures optimized for RDMA scalability and microsecond latency.
-
-### Secure Infrastructure and Networking
+## Secure Infrastructure and Networking
 - **[GrooveGalaxy – Secure Infrastructure Project](https://github.com/Enessar/GrooveGalaxy-Secure-Infrastructure)** · *Java, PostgreSQL*  
   Multi-VM network (gateway, server, database) with AES-CTR encrypted streaming, HTTPS, and automated firewall setup.  
 - **[LizardsNroachesNwasps – Distributed Multiplayer Game](https://github.com/Enessar/Psis-lizardVScockroach)** · *C (POSIX Threads, ZeroMQ)*  
